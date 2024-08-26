@@ -1,0 +1,22 @@
+div { display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+
+}
+
+img { 
+    width: 200px;
+    margin-right: 40;
+    margin-top: 40px;
+    border-radius: 6px;
+
+}
+
+h3 {font-size: 18px;
+    font-weight: regular;
+    margin-top: 4px;
+
+}
+
